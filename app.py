@@ -95,4 +95,4 @@ def update_graph(json_data, feature):
     return figure
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
